@@ -1,0 +1,21 @@
+.hero p{
+    font-size: 20px;
+}
+.btn{
+    font-size: 20px;
+    text-decoration: none;
+}
+.btn:hover{
+  font-size: 30px;
+  background-color: grey;
+  color:pink;
+}
+.main-page{
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+}
+main{
+    display: flex;
+    flex-direction: column;
+}
